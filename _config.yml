@@ -32,20 +32,12 @@ author:
   uri              : # URL
   email            : "skim3617@arizona.edu" 
 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+ # Academic websites
+  googlescholar    : "https://scholar.google.com/citations?user=mX08EUIAAAAJ&hl=en"
+ 
+  # Social media
+  linkedin         : "sun-yong-kim-ph-d-95586a18a"
+  twitter          : "SunYongKim1"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
