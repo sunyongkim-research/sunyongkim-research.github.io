@@ -3,10 +3,9 @@ layout: page
 title: Pax-Americana
 permalink: /pax-americana/
 ---
+<div style="padding-left: 20px;">
 
-### I. US Military Hegemony and Global Macro-Financial Cycles
-
-**Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
+### I. Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
 
 <img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
@@ -28,6 +27,8 @@ USC Marshall Finance PhD Conference in Finance (2023), John Hopkins Carey Financ
 
 **Media:**  
 [Faculti Interview](#)
+
+</div>
 
 
 
