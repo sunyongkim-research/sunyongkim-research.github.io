@@ -14,7 +14,7 @@ This paper links the global financial cycle to the economic geography of U.S. mu
 
 ### I. US Multinational Production and the Exchange Rate Factor Structure  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5561880)] 
 
-<img src="/assets/MNC_Diff_Plots.png" alt="Pax-Americana Chart" width="75%">
+<img src="/assets/MNCvsCurrency.png" alt="Pax-Americana Chart" width="75%">
 
 **Abstract:**
 This paper develops a granular theory of currency risk premia, linking global financial returns to the industrial concentration of the United States. In a tractable multi-country model, idiosyncratic shocks to large U.S. multinationals aggregate into a “granular’’ U.S. factor that transmits internationally through production networks. Countries more exposed to U.S. MNC activity face greater global consumption volatility, lower interest rates, and currencies that appreciate in downturns. A structural estimation shows the model quantitatively reproduces the magnitude and cross-sectional pattern of carry-trade premia, implying that U.S. industrial concentration is a core structural determinant of global risk premia.
