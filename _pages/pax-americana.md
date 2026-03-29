@@ -11,6 +11,9 @@ permalink: /pax-americana/
 
 <img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
 
+**Abstract:**
+The U.S. fiscal condition is the single most important fiscal determinant of any risky asset price, anywhere around the world. Even for their own risky asset markets, foreign fiscal conditions play a limited role in price determination once the U.S. fiscal condition is appropriately controlled for. To explain these results, I emphasise the special US role as the global military hegemon.  In the model, the U.S provides fiscal insurance by extending security guarantees to allied countries, partially providing for their defense needs. When U.S. military spending rises, the credibility of these security guarantees improves, expanding the fiscal space and consequently the sovereign default risk of US-allied countries. At the same time, the collateral value of dollar safe assets is enhanced, appreciating the dollar exchange rate. Both forces enable the model to match, both qualitatively and quantitatively, the unique link between U.S. fiscal expansions and i) depressed global risky-asset valuations and ii) higher global risk premia. Two identified sources of variation support the mechanism: narrative military news shocks and a quasi-experimental analysis of the 2013 U.S. sequester—an exogenous contraction in U.S. defense commitments. The results reveal that the global financial cycle rests not only on U.S. monetary dominance, but on the deeper fiscal and geopolitical foundations of the US military hegemony or Pax Americana.
+
 **Awards and Grants:**
 * **Western Finance Association (WFA)** Brattle Group PhD Candidate Award for Outstanding Research (2023)
 * **Financial Management Association (FMA)** Best Paper in Investments, Winner (2023)
