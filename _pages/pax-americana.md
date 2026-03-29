@@ -31,7 +31,7 @@ USC Marshall Finance PhD Conference in Finance (2023), John Hopkins Carey Financ
 ### II. Pax-Americana: Security, Stability and US Exorbitant Privilege [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090)]  
 <span style="color:red; font-style:italic;">Reject and Resubmit (Review of Economic Studies)</span>
 
-<img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
+<img src="/assets/Military-Simulation-C7.png" alt="Pax-Americana Chart" width="75%">
 
 **Abstract:**
 I develop a general-equilibrium model that links the persistent global imbalances of the modern financial system to U.S. military hegemony. By lowering geopolitical risk and strengthening contract enforcement, the U.S. security umbrella allows allies to reallocate spending from defense toward social transfers and investment, reducing fiscal cyclicality, inequality, and global risk premia—especially during global stress. The same enforcement network underwrites the safety and liquidity of dollar assets, generating a security-based convenience yield that expands U.S. fiscal capacity and sustains the dollar’s reserve-currency role. In equilibrium, the United States runs persistent trade deficits and negative net foreign assets, while global stress episodes appreciate the dollar, depress risky-asset prices, and raise U.S. global wealth shares. The model interprets the exorbitant privilege as an equilibrium rent on global security provision and shows that U.S. retrenchment would erode dollar safety and amplify global macro-financial volatility.
