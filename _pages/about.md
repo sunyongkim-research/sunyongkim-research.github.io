@@ -24,19 +24,17 @@ My most active research line studies the US military hegemony and its role in dr
 ## US Multinational Production and International Spillovers 
 
 Secondly, I explore the role of US Multinationals (MNCs) in driving global factor structures in bond, equities and currency markets. Check out my papers: 
-
-i) [US Multinational Production and Exchange Rate Factor Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5561880)  
-ii) [US Multinational Production and the Global Financial Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5580571)   
-iii) [US Multinational Production and Global Policy Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500298)
+* [US Multinational Production and Exchange Rate Factor Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5561880)  
+* [US Multinational Production and the Global Financial Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5580571)   
+* [US Multinational Production and Global Policy Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500298)
 
 ## Political Sovereignty 
 
 Thirdly, I explore the asset pricing consequences of political sovereignty, using Brexit and the Euro Zone as case studies. Check out my papers: 
-
-i) [Sovereignty as a Priced Asset: Brexit and UK's Fiscal Capacity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5708962)
-ii) [Credibility as a Fiscal Asset: Spread Dynamics in the Eurozone](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5719062)
+* [Sovereignty as a Priced Asset: Brexit and UK's Fiscal Capacity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5708962)
+* [Credibility as a Fiscal Asset: Spread Dynamics in the Eurozone](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5719062)
 
 Finally, I have a brand new line exploring the welfare consequences of US immigration policy. For more, check out my new paper: 
-i) [Immigration, Growth, and the Asset-Price Nexus](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5737483)
+* [Immigration, Growth, and the Asset-Price Nexus](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5737483)
 
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
