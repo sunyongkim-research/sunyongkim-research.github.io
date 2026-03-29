@@ -3,7 +3,7 @@ layout: page
 title: Pax-Americana
 permalink: /pax-americana/
 ---
-<div style="padding-left: 20px;">
+<div style="padding-left: 20px;" markdown="1">
 
 ### I. Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
