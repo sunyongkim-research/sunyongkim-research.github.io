@@ -70,6 +70,13 @@ This paper develops a unified theory linking U.S. military power, fiscal capacit
 **Major Conferences, Seminars and Workshops:**  
 Midwest Macro (MWM, 2026), 
 
+### V. Original Sin Revisited: US Military Hegemony and Corporate Dollarization [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6239378)]  
+
+<img src="/assets/Military-Simulation-X.png" alt="Pax-Americana Chart" width="75%">
+
+**Abstract:**
+Why do firms in some countries borrow heavily in U.S. dollars while others rely on local-currency debt? This paper develops a geopolitical theory of corporate dollarisation. I argue that the U.S. security umbrella—the system of security guarantees and military assistance extended to allied nations—acts as state-contingent fiscal insurance that lowers enforcement risk and reduces the perceived tail risk of foreign-currency liabilities. When U.S. security provision strengthens, dollar funding becomes cheaper and safer for firms in aligned economies, increasing their private incentives to borrow in dollars and to expand leverage. However, this geopolitical insurance creates corporate moral hazard. As firms collectively increase dollar borrowing, aggregate exposure to dollar funding conditions rises and systemic vulnerability increases, an effect individual firms do not internalize. Foreign-currency borrowing can therefore be privately optimal yet socially excessive. I show that a state-contingent tax on dollar borrowing, complemented by capital controls that dampen the pass-through from dollar issuance to funding conditions, can implement the socially optimal currency composition of corporate debt.
+
 
 </div>
 
