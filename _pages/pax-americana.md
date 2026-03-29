@@ -28,6 +28,26 @@ USC Marshall Finance PhD Conference in Finance (2023), John Hopkins Carey Financ
 **Media:**  
 [[Faculti Interview](https://faculti.net/global-footprint-of-us-fiscal-policy)]
 
+### II. Pax-Americana: Security, Stability and US Exorbitant Privilege [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090)]  
+<span style="color:red; font-style:italic;">Reject and Resubmit (Review of Economic Studies)</span>
+
+<img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
+
+**Abstract:**
+I develop a general-equilibrium model that links the persistent global imbalances of the modern financial system to U.S. military hegemony. By lowering geopolitical risk and strengthening contract enforcement, the U.S. security umbrella allows allies to reallocate spending from defense toward social transfers and investment, reducing fiscal cyclicality, inequality, and global risk premia—especially during global stress. The same enforcement network underwrites the safety and liquidity of dollar assets, generating a security-based convenience yield that expands U.S. fiscal capacity and sustains the dollar’s reserve-currency role. In equilibrium, the United States runs persistent trade deficits and negative net foreign assets, while global stress episodes appreciate the dollar, depress risky-asset prices, and raise U.S. global wealth shares. The model interprets the exorbitant privilege as an equilibrium rent on global security provision and shows that U.S. retrenchment would erode dollar safety and amplify global macro-financial volatility.
+
+**Awards and Grants:**
+* **Western Finance Association (WFA)** Brattle Group PhD Candidate Award for Outstanding Research (2022)
+* **European Finance Association (EFA)** Engelbert-Dockner Memorial Prize for the Best Paper by Young Researchers, Winner (2023)
+* **Financial Intermediation Research Society (FIRS)** Travel Grant for PhD Researchers (2023)
+* **Macro-Finance Society (MFS) PhD Travel Grant** PhD Travel Grant (2022)
+
+**Major Conferences, Seminars and Workshops:**  
+Western Finance Association (WFA, 2022), European Finance Association (EFA, 2023), Financial Intermediation Research Society (FIRS, 2022), Midwest Finance Association (MFA, 2023), CEPR International Macroeconomics and Finance (IMF, 2023, Invited), Society for Economic Dynamics (SED, 2023), Econometric Society Meetings (Asia, Europe, 2023),  UNSW Asset Pricing Workshop (2023), Financial Management Association (FMA, 2022), Money Macro and Finance Society (MMF, 2022), Southwestern Finance Association (SWFA, 2022), Midwest Economics Association (MEA, 2022), Korean Virtual Seminar Series (2024), UW Madison Finance Brownbag (2021
+
+**Doctoral Conferences, Seminars and Workshops:**  
+Junior Academic Research Seminar in Finance (JARS, 2023), LBS Trans-Atlantic Doctoral Conference (TADC, 2023), WashU Economics Graduate Student Conference (EGSC, 2023), American Finance Association PhD Poster Session (AFA, 2022), 19th Macro-Finance Society Workshop PhD Poster Session (MFS, 2022), Inter-Finance PhD Seminar (IFPHD, 2021-2023)
+
 </div>
 
 
