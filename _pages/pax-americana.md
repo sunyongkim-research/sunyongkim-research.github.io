@@ -5,7 +5,7 @@ permalink: /pax-americana/
 ---
 <div style="padding-left: 20px;" markdown="1">
 
-### I. Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
+### I. Pax-Americana: US Military Power and Global Financial Cycles [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027068)] [[Media](https://faculti.net/global-footprint-of-us-fiscal-policy)]  
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
 
 <img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
