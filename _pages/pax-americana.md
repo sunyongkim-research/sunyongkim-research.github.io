@@ -3,7 +3,6 @@ layout: page
 title: Pax-Americana
 permalink: /pax-americana/
 ---
-<div style="padding-left: 20px;">
 
 ### I. US Military Hegemony and Global Macro-Financial Cycles
 
