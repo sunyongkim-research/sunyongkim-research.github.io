@@ -48,7 +48,7 @@ Western Finance Association (WFA, 2022), European Finance Association (EFA, 2023
 **Doctoral Conferences, Seminars and Workshops:**  
 Junior Academic Research Seminar in Finance (JARS, 2023), LBS Trans-Atlantic Doctoral Conference (TADC, 2023), WashU Economics Graduate Student Conference (EGSC, 2023), American Finance Association PhD Poster Session (AFA, 2022), 19th Macro-Finance Society Workshop PhD Poster Session (MFS, 2022), Inter-Finance PhD Seminar (IFPHD, 2021-2023)
 
-### III. US Military Hegemony and the Global Price of Risk [[SSRN]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6195798))]  
+### III. US Military Hegemony and the Global Price of Risk [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6195798)]  
 
 <img src="/assets/militaryfiscalplot.png" alt="Pax-Americana Chart" width="75%">
 
