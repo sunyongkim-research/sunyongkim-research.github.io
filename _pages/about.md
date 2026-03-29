@@ -15,4 +15,4 @@ My work is at the intersection of International Macro-Finance, Political Economy
 
 Here is my [CV](https://www.dropbox.com/home/Packet?preview=CV_feb12_2026.pdf).
 
-My email is: My email is: [skim3617@arizona.edu](mailto:skim3617@arizona.edu)
+My email is: [skim3617@arizona.edu](mailto:skim3617@arizona.edu)
