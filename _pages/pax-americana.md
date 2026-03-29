@@ -26,7 +26,7 @@ Western Finance Association (WFA, 2023), European Finance Association (EFA, 2024
 USC Marshall Finance PhD Conference in Finance (2023), John Hopkins Carey Finance Conference PhD Poster Session (Invited, 2023), WashU Economics Graduate Student Conference (EGSC, 2022), BFI Macro-Finance Research Program Summer Session for Young Scholars (MFR, 2022), LBS Trans-Atlantic Doctoral Conference (TADC, 2022), Inter-Finance PhD Seminar (IFPHD, 2021-2023), PhD Economics Virtual Seminar (EVS, 2023).
 
 **Media:**  
-[Faculti Interview](#)
+[[Faculti Interview](https://faculti.net/global-footprint-of-us-fiscal-policy)]
 
 </div>
 
