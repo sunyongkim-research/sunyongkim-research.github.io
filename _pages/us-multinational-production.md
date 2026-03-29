@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /us-multinational-production/
+---
+
 ### I. US Multinational Production and the Global Financial Cycle  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5580571)] 
 <span style="color:red; font-style:italic;">Revise and Resubmit (AEJ Macro)</span>
 
