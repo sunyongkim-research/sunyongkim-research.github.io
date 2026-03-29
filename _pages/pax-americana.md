@@ -59,6 +59,17 @@ This paper studies how U.S. fiscal policy transmits internationally and why its 
 **Major Conferences, Seminars and Workshops:**  
 Financial Intermediation Research Society (FIRS, 2026), Midwest Macro (MWM, 2026), 
 
+### IV. The Security Dividend: US Military Power, Dollar Dominance and Global Stability [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611990)]  
+
+<img src="/assets/militaryfiscalplot.png" alt="Pax-Americana Chart" width="75%">
+
+**Abstract:**
+This paper develops a unified theory linking U.S. military power, fiscal capacity, and global macro-financial dynamics. Central to the model is the U.S. security umbrella—the system of military guarantees extended to allied nations. By partially providing for allied defense, U.S. security commitments allow partner countries to reallocate resources away from military spending, reducing fiscal cyclicality, inequality, and global risk premia, particularly during episodes of financial stress. At the same time, this security provision underwrites the safety and liquidity of dollar assets, generating a security-based convenience yield that expands U.S. fiscal capacity and sustains the dollar’s reserve-currency role. The resulting insurance mechanism therefore constitutes a mutually beneficial global equilibrium. When the fixed political or resource costs of engagement exceed the liquidity rents associated with dollar safety, this unipolar equilibrium collapses. U.S. retrenchment leads to higher risk premia, a sharp rise in the dollar convenience yield, and greater global volatility. Beyond this threshold, the international system fragments into regional blocs, producing a multipolar world characterized by elevated volatility, wider spreads, and weaker global growth. In this framework, maintaining U.S. military hegemony supports macro-financial stability for both the United States and its allies.
+
+
+**Major Conferences, Seminars and Workshops:**  
+Midwest Macro (MWM, 2026), 
+
 
 </div>
 
