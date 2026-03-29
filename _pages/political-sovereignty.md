@@ -14,7 +14,7 @@ This paper develops a positive theory of the financial consequences of political
 
 ### II. Credibility as a Fiscal Asset: Spread Dynamics in the Eurozoney [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5719062)] 
 
-<img src="/assets/brexit_counterfactuals.png" alt="Pax-Americana Chart" width="75%">
+<img src="/assets/OMT_counterfactuals.png" alt="Pax-Americana Chart" width="75%">
 
 **Abstract:**
 This paper develops a continuous-time asset-pricing model linking ECB backstops to sovereign and redenomination premia in the euro area. The credibility of common fiscal and liquidity support—the European fiscal umbrella—is a priced state variable that governs default risk, collateral quality, and risk sharing. A stronger umbrella compresses spreads through insurance and valuation channels, but can also relax fiscal constraints and induce higher debt, generating a moral hazard force that raises default premia. The model provides a simple condition determining when insurance or moral hazard dominates. Calibrated to event data, it reproduces the 2012 OMT and 2020 PEPP compressions and shows that, without PEPP, COVID would have produced persistent fragmentation. ECB credibility therefore operates as a priced fiscal asset: stabilizing the monetary union when fiscal discipline is strong, but amplifying risk when it is weak.
