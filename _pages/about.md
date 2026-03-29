@@ -18,8 +18,8 @@ My work is at the intersection of International Macro-Finance, Political Economy
 My most active research line studies the US military hegemony and its role in driving international finance phenomena. Check out my papers: 
 * i) [Pax Americana: Security, Stability, and the U.S. Exorbitant Privilege](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090) 
 * ii) [The Security Dividend: U.S. Military Power, Dollar Dominance, and Global Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611990)
-* iii) Pax-Americana: US Military Power and Global Financial Cycle 
-* iv) Military Hegemony as Enforcement Capital: A Fiscal Theory of the Global Financial Cycle 
+* iii) [Pax-Americana: US Military Power and Global Financial Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027068) 
+* iv) [Military Hegemony as Enforcement Capital: A Fiscal Theory of the Global Financial Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5690425&__cf_chl_tk=QfJVCAUU0F4nS0alCmJLQPAgLTcZYr9OVCsr.1uUrg0-1763673759-1.0.1.1-lqRDcSuUuLstr1kBxupdEEUHciTRkL1rO_cAeBJYKF0)
 * v) US Military Hegemony and the Global Price of Risk
 * vi) Original Sin Revisited: US Military Hegemony and Corporate Dollarization.
 
