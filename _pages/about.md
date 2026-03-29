@@ -16,8 +16,8 @@ I received my PhD in Finance from the Kellogg School of Management, Northwestern
 My work is at the intersection of International Macro-Finance, Political Economy and Asset Pricing. Many of my solo papers are currently going through the R&R process at top journals in econ and finance such as ReStud, JPE and AEJ Macro.  
 
 My most active research line studies the US military hegemony and its role in driving international finance phenomena. Check out my papers: 
-* i) i) [Pax Americana: Security, Stability, and the U.S. Exorbitant Privilege](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090) 
-* ii) The Security Dividend: U.S. Military Power, Dollar Dominance, and Global Stability 
+* i) [Pax Americana: Security, Stability, and the U.S. Exorbitant Privilege](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090) 
+* ii) [The Security Dividend: U.S. Military Power, Dollar Dominance, and Global Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611990)
 * iii) Pax-Americana: US Military Power and Global Financial Cycle 
 * iv) Military Hegemony as Enforcement Capital: A Fiscal Theory of the Global Financial Cycle 
 * v) US Military Hegemony and the Global Price of Risk
