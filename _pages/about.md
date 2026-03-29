@@ -14,6 +14,7 @@ I received my PhD in Finance from the Kellogg School of Management, Northwestern
 ## US Military Hegemony and International Macro-Finance 
 
 My most active research line studies the US military hegemony and its role in driving international finance phenomena. Check out my papers: 
+
 i) [Pax Americana: Security, Stability, and the U.S. Exorbitant Privilege](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090)  
 ii) [The Security Dividend: U.S. Military Power, Dollar Dominance, and Global Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611990)
 iii) [Pax-Americana: US Military Power and Global Financial Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027068) 
@@ -24,6 +25,7 @@ vi) [Original Sin Revisited: Original Sin Revisited: US Military Hegemony and Co
 ## US Multinational Production and International Spillovers 
 
 Secondly, I explore the role of US Multinationals (MNCs) in driving global factor structures in bond, equities and currency markets. Check out my papers: 
+
 i) [US Multinational Production and Exchange Rate Factor Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5561880)  
 ii) [US Multinational Production and the Global Financial Cycle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5580571)   
 iii) [US Multinational Production and Global Policy Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500298)
@@ -31,6 +33,7 @@ iii) [US Multinational Production and Global Policy Spillovers](https://papers.s
 ## Political Sovereignty 
 
 Thirdly, I explore the asset pricing consequences of political sovereignty, using Brexit and the Euro Zone as case studies. Check out my papers: 
+
 i) [Sovereignty as a Priced Asset: Brexit and UK's Fiscal Capacity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5708962)
 ii) [Credibility as a Fiscal Asset: Spread Dynamics in the Eurozone](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5719062)
 
