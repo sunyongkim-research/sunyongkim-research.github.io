@@ -9,7 +9,7 @@ permalink: /pax-americana/
 **Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
 
-![Pax-Americana Chart](/assets/pax-americana-chart.png)
+<img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
 
 **Awards and Grants:**
 * **Western Finance Association (WFA)** Brattle Group PhD Candidate Award for Outstanding Research (2023)
