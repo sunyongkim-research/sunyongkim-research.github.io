@@ -1,15 +1,11 @@
 ---
-layout: page
-title: Pax-Americana
-permalink: /pax-americana/
+layout: pagepermalink: /pax-americana/
 ---
 
-### I. US Military Hegemony and Global Macro-Financial Cycles
-
-**Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
+### I. Pax-Americana: US Military Power and Global Financial Cycles** [[SSRN](#)] [[Media](#)]  
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
 
-![Pax-Americana Chart](/assets/pax-americana-chart.png)
+<img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
 
 **Awards and Grants:**
 * **Western Finance Association (WFA)** Brattle Group PhD Candidate Award for Outstanding Research (2023)
@@ -25,4 +21,5 @@ USC Marshall Finance PhD Conference in Finance (2023), John Hopkins Carey Financ
 
 **Media:**  
 [Faculti Interview](#)
+
 
