@@ -66,9 +66,11 @@ Financial Intermediation Research Society (FIRS, 2026), Midwest Macro (MWM, 2026
 **Abstract:**
 This paper develops a unified theory linking U.S. military power, fiscal capacity, and global macro-financial dynamics. Central to the model is the U.S. security umbrella—the system of military guarantees extended to allied nations. By partially providing for allied defense, U.S. security commitments allow partner countries to reallocate resources away from military spending, reducing fiscal cyclicality, inequality, and global risk premia, particularly during episodes of financial stress. At the same time, this security provision underwrites the safety and liquidity of dollar assets, generating a security-based convenience yield that expands U.S. fiscal capacity and sustains the dollar’s reserve-currency role. The resulting insurance mechanism therefore constitutes a mutually beneficial global equilibrium. When the fixed political or resource costs of engagement exceed the liquidity rents associated with dollar safety, this unipolar equilibrium collapses. U.S. retrenchment leads to higher risk premia, a sharp rise in the dollar convenience yield, and greater global volatility. Beyond this threshold, the international system fragments into regional blocs, producing a multipolar world characterized by elevated volatility, wider spreads, and weaker global growth. In this framework, maintaining U.S. military hegemony supports macro-financial stability for both the United States and its allies.
 
+**Awards and Grants:**
+* **American Finance Association (AFA)** AFA Future of Finance Award (2027)
 
 **Major Conferences, Seminars and Workshops:**  
-Midwest Macro (MWM, 2026), 
+American Finance Association (AFA, 2027), Midwest Macro (MWM, 2026) 
 
 ### V. Original Sin Revisited: US Military Hegemony and Corporate Dollarization [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6239378)]  
 
