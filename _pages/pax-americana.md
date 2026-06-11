@@ -7,6 +7,8 @@ permalink: /pax-americana/
 
 ### I. Pax-Americana: US Military Power and Global Financial Cycles [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027068)] [[Media](https://faculti.net/global-footprint-of-us-fiscal-policy)]  
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
+<span style="color:black; font-style:italic;">Western Finance Association (WFA) Brattle Group PhD Candidate Award for Outstanding Research (2023) </span>
+<span style="color:black; font-style:italic;">Financial Management Association (FMA) Best Paper in Investments, Winner (2023) </span>
 
 <img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
 
