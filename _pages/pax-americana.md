@@ -5,14 +5,16 @@ permalink: /pax-americana/
 ---
 <div style="padding-left: 20px;" markdown="1">
 
-### I. Pax-Americana: US Military Power and Global Financial Cycles [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027068)] [[Media](https://faculti.net/global-footprint-of-us-fiscal-policy)]  
+### I. Pax-Americana: US Military Power and Global Financial Cycles [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027068)] [[Media](https://faculti.net/global-footprint-of-us-fiscal-policy)]
 
 <span style="color:red; font-style:italic;">Revise and Resubmit (Journal of Political Economy)</span>
 
-  - **Western Finance Association (WFA) Brattle Group PhD Candidate Award for Outstanding Research (2023)**
-  - **Financial Management Association (FMA) Best Paper in Investments, Winner (2023)**
-  - **Asian Meeting of the Econometric Society (AMES) Young Scholars' Fund (YSF) Award for Outstanding Research (2023)**
-  - **Becker-Friedman Institute Macro-Finance Research Program (BFI-MFR) PhD Travel Grant (2022)**
+<ul style="margin-top: 0.5em; margin-bottom: 1em;">
+  <li><strong style="color:black;">Western Finance Association (WFA) Brattle Group PhD Candidate Award for Outstanding Research (2023)</strong></li>
+  <li><strong style="color:black;">Financial Management Association (FMA) Best Paper in Investments, Winner (2023)</strong></li>
+  <li><strong style="color:black;">Asian Meeting of the Econometric Society (AMES) Young Scholars' Fund (YSF) Award for Outstanding Research (2023)</strong></li>
+  <li><strong style="color:black;">Becker-Friedman Institute Macro-Finance Research Program (BFI-MFR) PhD Travel Grant (2022)</strong></li>
+</ul>
 
 <img src="/assets/pax-americana-chart.png" alt="Pax-Americana Chart" width="75%">
 
