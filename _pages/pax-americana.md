@@ -57,18 +57,11 @@ Western Finance Association (WFA, 2022), European Finance Association (EFA, 2023
 **Doctoral Conferences, Seminars and Workshops:**  
 Junior Academic Research Seminar in Finance (JARS, 2023), LBS Trans-Atlantic Doctoral Conference (TADC, 2023), WashU Economics Graduate Student Conference (EGSC, 2023), American Finance Association PhD Poster Session (AFA, 2022), 19th Macro-Finance Society Workshop PhD Poster Session (MFS, 2022), Inter-Finance PhD Seminar (IFPHD, 2021-2023)
 
-### III. US Military Hegemony and the Global Price of Risk [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6195798)]  
+### III. The Security Dividend: US Military Power, Dollar Dominance and Global Stability [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611990)]  
 
-<img src="/assets/militaryfiscalplot.png" alt="Pax-Americana Chart" width="75%">
-
-**Abstract:**
-This paper studies how U.S. fiscal policy transmits internationally and why its effects vary systematically across countries and asset classes. I document that country-level asset betas with respect to U.S. fiscal--military shocks exhibit large cross-sectional heterogeneity across sovereign bonds, equities, and currencies, and that this heterogeneity is tightly linked to the U.S. military presence. Countries that are more reliant on US military assistance experience stronger US fiscal transmission, higher equity and bond risk premia, and currencies that appreciate in adverse U.S. fiscal states. To interpret these patterns, I develop a multi-country general equilibrium model in which U.S. fiscal policy transmits through the US security umbrella: the system of security guarantees that the US extends to allied nations. This system of fiscal insurance links together US military spending, allied fiscal behavior, sovereign default risk, and international financial wedges. A quantitative extension shows that the model matches the magnitude and cross-sectional structure of US fiscal betas and factor-mimicking portfolios across asset classes, highlighting U.S. military insurance as a central determinant of global risk premia.
-
-
-**Major Conferences, Seminars and Workshops:**  
-Financial Intermediation Research Society (FIRS, 2026), Midwest Macro (MWM, 2026), 
-
-### IV. The Security Dividend: US Military Power, Dollar Dominance and Global Stability [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611990)]  
+<ul style="margin-top: 0.5em; margin-bottom: 1em;">
+  <li><strong style="color:black;">American Finance Association (AFA) Future of Finance Award, Winner (2027)</strong></li>
+</ul>
 
 <img src="/assets/Military-Simulation-X.png" alt="Pax-Americana Chart" width="75%">
 
@@ -80,6 +73,18 @@ This paper develops a unified theory linking U.S. military power, fiscal capacit
 
 **Major Conferences, Seminars and Workshops:**  
 American Finance Association (AFA, 2027), Midwest Macro (MWM, 2026) 
+
+
+### IV. US Military Hegemony and the Global Price of Risk [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6195798)]  
+
+<img src="/assets/militaryfiscalplot.png" alt="Pax-Americana Chart" width="75%">
+
+**Abstract:**
+This paper studies how U.S. fiscal policy transmits internationally and why its effects vary systematically across countries and asset classes. I document that country-level asset betas with respect to U.S. fiscal--military shocks exhibit large cross-sectional heterogeneity across sovereign bonds, equities, and currencies, and that this heterogeneity is tightly linked to the U.S. military presence. Countries that are more reliant on US military assistance experience stronger US fiscal transmission, higher equity and bond risk premia, and currencies that appreciate in adverse U.S. fiscal states. To interpret these patterns, I develop a multi-country general equilibrium model in which U.S. fiscal policy transmits through the US security umbrella: the system of security guarantees that the US extends to allied nations. This system of fiscal insurance links together US military spending, allied fiscal behavior, sovereign default risk, and international financial wedges. A quantitative extension shows that the model matches the magnitude and cross-sectional structure of US fiscal betas and factor-mimicking portfolios across asset classes, highlighting U.S. military insurance as a central determinant of global risk premia.
+
+
+**Major Conferences, Seminars and Workshops:**  
+Financial Intermediation Research Society (FIRS, 2026), Midwest Macro (MWM, 2026), 
 
 ### V. Original Sin Revisited: US Military Hegemony and Corporate Dollarization [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6239378)]  
 
