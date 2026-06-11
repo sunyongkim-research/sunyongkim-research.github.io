@@ -33,7 +33,12 @@ USC Marshall Finance PhD Conference in Finance (2023), John Hopkins Carey Financ
 ### II. Pax-Americana: Security, Stability and US Exorbitant Privilege [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5633090)]  
 <span style="color:red; font-style:italic;">Reject and Resubmit (Review of Economic Studies)</span>
 
-<ul style="margin-top: 0.5em; margin-bottom: 1em;"> <li><strong style="color:black;">European Finance Association (EFA) Engelbert Dockner Memorial Prize for Best Paper in International Finance (2023)</strong></li> <li><strong style="color:black;">Western Finance Association (WFA) Brattle Group PhD Candidate Award for Outstanding Research (2023)</strong></li> <li><strong style="color:black;">Asian Meeting of the Econometric Society (AMES) Young Scholars' Fund (YSF) Award for Outstanding Research (2023)</strong></li> <li><strong style="color:black;">Becker-Friedman Institute Macro-Finance Research Program (BFI-MFR) PhD Travel Grant (2022)</strong></li> </ul>
+<ul style="margin-top: 0.5em; margin-bottom: 1em;">
+  <li><strong style="color:black;">European Finance Association (EFA) Engelbert-Dockner Memorial Prize for the Best Paper by Young Researchers, Winner (2023)</strong></li>
+  <li><strong style="color:black;">Western Finance Association (WFA) Brattle Group PhD Candidate Award for Outstanding Research (2022)</strong></li>
+  <li><strong style="color:black;">Financial Intermediation Research Society (FIRS) Travel Grant for PhD Researchers (2023)</strong></li>
+  <li><strong style="color:black;">Macro-Finance Society (MFS) PhD Travel Grant (2022)</strong></li>
+</ul>
 
 <img src="/assets/Military-Simulation-C7.png" alt="Pax-Americana Chart" width="75%">
 
